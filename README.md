@@ -20,13 +20,7 @@ features, and build a robust predictive model for electricity usage (Usage_kWh).
 
 UX_Project/
 
-│
-
-├── data/
-
-│   └── ux data/
-
-│       └── load_data.csv          # Raw input dataset
+├── load_data.csv          # Raw input dataset
 
 │
 
